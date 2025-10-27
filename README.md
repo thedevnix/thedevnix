@@ -89,3 +89,14 @@
 - 🧩 Complete Full Stack Development roadmap  
 - 💼 Build & deploy 5 real projects  
 - 📈 Con
+
+
+---
+
+### 💡 Learning DSA Daily
+
+- 🔥 **Currently focusing on:** Data Structures & Algorithms  
+- 🧩 Topics: Arrays, Strings, Recursion, Linked List, Stack, Queue, Trees, Graphs  
+- 🧠 Practicing daily problems on **LeetCode**  
+- 🏆 Maintaining a **LeetCode Streak** to build strong problem-solving skills  
+- 🚀 Goal: Strengthen logic and master core DSA before advanced topics  
