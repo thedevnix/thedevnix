@@ -80,15 +80,7 @@
 
 ---
 
-### 📌 Featured Projects
 
-> 🧱 Pin these repos on your profile to make it look like the boxes below 👇
-
-- 🧠 **[HTML Basics Projects](https://github.com/thedevnix/html-projects)** — Forms, tables, and structure practice  
-- ⚡ **[JavaScript Mini Apps](https://github.com/thedevnix/js-mini-apps)** — Small DOM & API projects  
-- ⚙️ **[React Playground](https://github.com/thedevnix/react-practice)** — Components, hooks, routing  
-- 🌍 **[Node.js API Starter](https://github.com/thedevnix/node-api)** — Simple REST backend with Express  
-- 🎯 **[Portfolio Website](https://github.com/thedevnix/portfolio)** — Personal portfolio in progress  
 
 ---
 
